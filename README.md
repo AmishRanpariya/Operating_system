@@ -1,7 +1,7 @@
 # Operating_system
 Operating system simulation programs
 
-## Dick Scheduling
+## Disk Scheduling
 
 ```
 Enter the Maximum disk size
